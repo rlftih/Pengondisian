@@ -34,7 +34,7 @@ Pengertian cheatsheet
 1. Repository: Tempat penyimpanan semua file proyek dan riwayat perubahannya.
 2. Commit: Catatan/snapshot dari perubahan file pada suatu waktu.
 3. Checkout: Perintah untuk berpindah ke branch atau commit tertentu.
-4. Hash:Kode unik yang menjadi identitas setiap commit.
+4. Hash: Kode unik yang menjadi identitas setiap commit.
 5. Branch: Cabang pengembangan untuk mengerjakan fitur atau perubahan secara terpisah.
 6. Merge: Menggabungkan perubahan dari satu branch ke branch lain.
 7. Remote: Repository yang tersimpan di server online, misalnya GitHub.
